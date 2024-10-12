@@ -5,10 +5,10 @@ DANCE is a semi-supervised framework for knowledge transfer across multi-omic si
 
 ## Getting Started
 #### Requirements
-- Python 3.10, PyTorch>=1.21.0,  numpy>=1.24.0, are required for the current codebase.
+- torch>=1.7.0, torchvision>=0.5.0, numpy, prettytable, tqdm, scikit-learn, webcolors, matplotlib, opencv-python, numba are required for the current codebase.
 
 #### Datasets
-##### CITE-seq and ASAP-seq Data 
+##### CITE-ASAP Data 
 Download dataset from https://github.com/SydneyBioX/scJoint/blob/main/data.zip.
 
 #### Cell Type Transfer 
