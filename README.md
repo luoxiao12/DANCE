@@ -7,7 +7,7 @@ DANCE is a semi-supervised framework for knowledge transfer across multi-omic si
 
 ## Getting Started
 #### Requirements
-- torch>=1.7.0, torchvision>=0.5.0, numpy, prettytable, tqdm, scikit-learn, webcolors, matplotlib, opencv-python, numba are required for the current codebase.
+- torch>=1.7.0, torchvision>=0.5.0, numpy, scikit-learn are required for the current codebase.
 
 #### Datasets
 ##### CITE-ASAP Data 
