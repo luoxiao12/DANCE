@@ -3,7 +3,7 @@
 ## Introduction
 DANCE is a semi-supervised framework for knowledge transfer across multi-omic single-cell data.
 
-![image](https://github.com/zfkarl/DANCE/tree/master/imgs/NeurIPS24-DANCE.png)
+![image](https://github.com/zfkarl/DANCE/blob/master/imgs/NeurIPS24-DANCE.png)
 
 ## Getting Started
 #### Requirements
